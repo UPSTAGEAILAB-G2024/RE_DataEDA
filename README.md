@@ -22,6 +22,15 @@
 - 건축허가현황
 - 주택구입잠재력지수 (Housing Opportunity Index) HOI
 
+
+## 참고 사이트
+- https://docs.qgis.org/3.22/ko/docs/gentle_gis_introduction/introducing_gis.html
+- https://mdis.kostat.go.kr/index.do
+- https://kosis.kr/index/index.do
+- https://dacon.io/competitions/official/235724/data
+- https://www.data.go.kr/index.do
+
+
 ## 타임테이블
 #### 5/1 : 문제정의,데이터 분담
 
